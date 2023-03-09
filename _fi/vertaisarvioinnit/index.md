@@ -42,7 +42,7 @@ Palautteessasi kerro toiselle opiskelijalle, missä on parannettavaa. Mitä tark
 * Lähetä palaute valitsemalla Submit new issue
 * Issue eli tässä tapauksessa palaute on koko repositorion tapaan julkinen, joten sen voi lukea kuka tahansa.
 * Laita labtooliin suora linkki tekemääsi issueen jotta vertaisarviointi katsotaan tehdyksi.
-* Ohjaajat lukevat ja pisteyttävät annetun palautteen mahdollisimman pian deadlinen jälkeen.
+* Ohjaajat lukevat ja pisteyttävät ensimmäisen vertaispalautteen mahdollisimman pian deadlinen jälkeen, jotta näet arvosanasta, että palaute on ollut ohjeiden mukainen. Toisen palautteen pisteet saattavat tulla vasta koko työn arvioinnin yhteydessä. Useimmiten vertaisarviot ovat olleet moitteettomia, jolloin kaikki ovat saaneet niistä täydet pisteet, jos ovat tehneet arvion.
 
 Katselmoinnista jaetaan 0-4 pistettä. Vähintään 4 laadukasta ja rakentavaa palautekommenttia riittää 4 pisteeseen. Palaute kirjoitetaan vapaamuotoisena, mutta yritä kirjoittaa selkeästi. Jaa palaute eri luokista eri kappaleisiin. Jos kirjoitat ranskalaisia viivoja, kirjoita kokonaisia lauseita tai mieluiten useita lauseita. Älä hyökkää palautteessa toista kohtaan! Toisaalta älä ota annettua palautetta itseesi - projektisihan on yhä kesken ja muokattavissa. Palautteen antajakin toisinaan ymmärtää väärin tai antaa virheellisiä ohjeita.
 
